@@ -1,0 +1,80 @@
+--- CHUNK 0 ---
+Rishav Kumar Singh ♂phone+91-8292893635
+Sales Engineer | Solutions Engineer | SaaS | Enterprise Solutions /envel⌢perishav19.90.rk@gmail.com
+Bachelor of Technology /githubGitHub Profile
+KIIT, Bhubaneswar, Odisha /linkedinLinkedIn Profile
+Professional Summar y
+Entry-level Sales Engineer / Solutions Consultant with a strong foundation in computer science and a
+solution-oriented mindset. Skilled in translating business requirements into scalable technical solutions,
+delivering structured product dem
+
+--- CHUNK 1 ---
+nical solutions,
+delivering structured product demonstrations, and supporting stakeholders through discovery, validation, and
+implementation. Adept at simplifying complex technical concepts for non-technical audiences and aligning
+product capabilities with real-world business workflows. Experienced in web applications, data-driven
+systems, and user-centric solution design.
+Educa tion
+•Bachelor of Technology in Computer Science and Engineering 2021–25
+Kalinga Institute of Industrial Technology, B
+
+--- CHUNK 2 ---
+1–25
+Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha
+Professional Experience
+•Business Operations – Skills Department June 2025 – October 2025
+PW Skills (Physics Wallah) – Bengaluru, Karnataka
+– Operated in a client-facing environment, supporting learners through onboarding, requirement clarification, and
+solution alignment.
+– Analyzed user needs and mapped them to appropriate learning paths, similar to enterprise solution discovery.
+– Explained offerings, workflows, and expected
+
+--- CHUNK 3 ---
+ry.
+– Explained offerings, workflows, and expected outcomes in a structured, value-driven manner.
+– Collaborated cross-functionally with academic, operations, and placement teams to improve user experience.
+– Identified recurring user challenges and contributed to process improvements.
+Solution Consul ting
+– Requirement discovery & needs analysis
+– Use-case mapping
+– Solution positioning
+– Technical validation
+– Proof of Concept (PoC) support
+– Stakeholder communication
+– Product demonstrations
+
+
+--- CHUNK 4 ---
+takeholder communication
+– Product demonstrations
+– Technical objection handling
+Tools & Pla tforms
+– Salesforce
+– HubSpot
+– LinkedIn Sales Navigator
+– Google Workspace
+– Advanced Excel
+Projects
+Aligned with Zycus’ focus on AI-driven enterprise solutions, the following projects demonstrate my experience
+in building and presenting intelligent, data-driven systems.
+•SynthAIsum
+Flask, Python, HTML, CSS
+– Developed an NLP-based web app, reducing information processing time by 40%.
+– Extracted key in
+
+--- CHUNK 5 ---
+rmation processing time by 40%.
+– Extracted key insights from complex datasets with 95% accuracy.
+•Disease Predictor with Ayurvedic Medicine Formulation
+Python, Flask, NumPy, Pandas
+– Built a machine learning model that reduced consultation time by 20%.
+– Integrated a user-friendly interface to improve accessibility.
+Cer tifica tions and Publica tions
+•Presenter and Co-authorComSIA-2025, University of Delhi Mar 2025
+– A Progressive Smart Attendance System using Facial Features based Recognition 
+
+--- CHUNK 6 ---
+ce System using Facial Features based Recognition Approach.
+– Designed and presented a real-world biometric system, demonstrating technical clarity and solution articulation.
+– Springer Publication: https://link.springer.com/book/10.1007/978-981-96-8343-7
+
